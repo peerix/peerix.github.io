@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on PeeriX</title>
+    <link>/services/</link>
+    <description>Recent content in Services on PeeriX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Development</title>
+      <link>/services/software-development/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/software-development/</guid>
+      <description>Web or client/server based software Web based Applications Database Applications Network Services System Services Payment Systems Biometric Systems Re-engineering Automation Glue Code Selenium web testing automation </description>
+    </item>
+    
+    <item>
+      <title>Open Source Software (OSS)</title>
+      <link>/services/oss/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/oss/</guid>
+      <description>Open Source Software (OSS) We provide OSS software consulting, deployment, tuning and support services for wide range of software as:
+PostgreSQL Selecting target infrastructure Performance tuning High Availability Clustering and replication Migrations Backup Monitoring Ongoing support Unix Distributions Debian, Ubuntu, RedHat, CentOS, SuSE, FreeBSD, OpenBSD
+Web Servers nginx, Apache
+Load Balancers HAProxy
+Mail Postfix, Dovecot, Sendmail, Cyrus
+Server Backends Django, Flask, Tomcat
+Version Control Systems and Continuous Integration (CI) git, Mercurial, Jenkins, GitLab</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>/services/training/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/training/</guid>
+      <description>Training
+C Programming Python Programming Java Programming Linux FreeBSD SQL Databases Web Application Development with Javascript + frameworks (Vue.js / React.js) Systems Management Version Control Systems Effective Testing Development toolchains - Python, Java Continuous Integration (CI) pipelines </description>
+    </item>
+    
+    <item>
+      <title>Hosted Services</title>
+      <link>/services/hosted-services/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/hosted-services/</guid>
+      <description>We take care of your applications hosting it on purposefully built resilient infrastructure.
+Custom Services Mail Servers Web Applications Monitoring </description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>/services/consulting/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/services/consulting/</guid>
+      <description>Consulting
+Product Evaluation Specification Security OSS Support IT Organization Project Management Network Management and Best practices LIR services as member of RIPE </description>
+    </item>
+    
+    <item>
+      <title>Remote Support</title>
+      <link>/services/remote-support/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>/services/remote-support/</guid>
+      <description>We can remotely fix problems on your Windows workstation/server, Apple PC or UNIX machines.
+For Windows or Apple&amp;rsquo;s Mac OS based PC please download: TeamViewer
+Once installed successfully, please call us on +44 (0) 203 3932023 to provide us with a temporary access to your PC.</description>
+    </item>
+    
+    <item>
+      <title>Systems Management</title>
+      <link>/services/system-management/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/system-management/</guid>
+      <description>Unix infrastructure Setup and Operations Network infrastructure Thin clients based on diskless Linux terminals Windows infrastructure Virtualized enviroments Containerized Applications based on Docker or FreeBSD&amp;rsquo;s Jails Full automation of required provisioning, configuration management and application deployment with Ansible Storage servers based on ZFS or Ceph Automated backup solutions on-site or off-site with built-in encryption Security hardening and evaluation services Monitoring Mail Servers (with optional spam filters) Custom Software Packaging for mass deployment/distribution </description>
+    </item>
+    
+  </channel>
+</rss>
